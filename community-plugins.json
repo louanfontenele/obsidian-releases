@@ -41706,6 +41706,13 @@
     "repo": "gabrielbacha/Obsidian-Section-Variants"
   },
   {
+    "id": "dim-lights",
+    "name": "Dim Lights",
+    "author": "Simen Strøm Braaten",
+    "description": "Dims all inactive panes, so you can keep focus on the one you're actively working on - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "strombraaten/dim-lights"
+  },
+  {
     "id": "coupon-scheduler",
     "name": "Coupon Scheduler",
     "author": "vrytfmcat",
@@ -42098,10 +42105,52 @@
     "repo": "ununnamed/book-reader"
   },
   {
+    "id": "foldable-frontmatter-groups",
+    "name": "Foldable Frontmatter Groups",
+    "author": "Christopher Wagner",
+    "description": "Adds collapsible group headers, canonical key ordering, folder-scoped templates, and cleanup tools to the native Properties panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cwagner223355/obsidian-foldable-frontmatter-groups"
+  },
+  {
     "id": "sort-checked-tasks",
     "name": "Sort Checked Tasks",
     "author": "adamk",
     "description": "Moves checked checklist items to the bottom of their task group. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "akamsheh/sort-checked-tasks"
+  },
+  {
+    "id": "three-d-codeblocks",
+    "name": "3D Codeblocks",
+    "author": "Johannes Kaindl",
+    "description": "Render 3D artifacts (GLB, glTF, STL) inline from a code block — orbit, zoom and pan without leaving your note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/3d-codeblocks"
+  },
+  {
+    "id": "copy-contents",
+    "name": "Copy Contents",
+    "author": "Richard Jones",
+    "description": "Copy or export file and folder contents in Markdown, plain text, or JSON formats. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "accsimplify/obsidian-copy-contents"
+  },
+  {
+    "id": "open-in-marked",
+    "name": "Open in Marked",
+    "author": "Brett M Terpstra",
+    "description": "Open the current note or vault in Marked 3. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ttscoff/Marked3-obsidian"
+  },
+  {
+    "id": "languageforge",
+    "name": "languageForge",
+    "author": "volcanicMole",
+    "description": "Seed naming cultures for your world: language family trees, culture cards, gate-filtered name batches with pronunciation and meaning, reverse-seeding, and naming traditions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kennyrn/languageForge"
+  },
+  {
+    "id": "move-tab",
+    "name": "Move Tab",
+    "author": "Jason",
+    "description": "Adds commands for moving the active tab left or right. Works across tab groups. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jasonfirkus/obsidian-move-tab"
   }
 ]
