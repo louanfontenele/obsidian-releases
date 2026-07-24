@@ -23926,6 +23926,13 @@
     "repo": "kazi-aidah/emoticon-picker"
   },
   {
+    "id": "contexts",
+    "name": "Contexts",
+    "author": "ba2slk",
+    "description": "Save and switch between working contexts — sync-safe across desktop and mobile. Supports any type of file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ba2slk/obsidian-contexts"
+  },
+  {
     "id": "abstract-folder",
     "name": "Abstract Folder",
     "author": "rahmanierfan",
@@ -25671,7 +25678,7 @@
   {
     "id": "link-forge",
     "name": "Link Forge",
-    "author": "philpalmieri",
+    "author": "Phil Palmieri",
     "description": "Auto-creates linked files when they don't exist, in real-time. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "philpalmieri/obsidian-link-forge"
   },
@@ -41442,7 +41449,7 @@
   {
     "id": "taskgregator",
     "name": "Taskgregator",
-    "author": "philpalmieri",
+    "author": "Phil Palmieri",
     "description": "Aggregate your native markdown tasks into one fast dashboard, organized by their Projects, People, and Areas context. No separate database, no special files, no rules to adopt. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "philpalmieri/obsidian-taskgregator"
   },
@@ -41676,13 +41683,6 @@
     "author": "MjavadH",
     "description": "Offline prayer times for Iranian cities using local city data. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mjavadh/PrayerChime"
-  },
-  {
-    "id": "motes",
-    "name": "Motes",
-    "author": "Hencter Lew",
-    "description": "A flow-style note plugin with native editor, waterfall layout and flexible storage. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hencter/obsidian-motes"
   },
   {
     "id": "s-three-image-sync-pro",
@@ -42084,10 +42084,24 @@
     "repo": "deyixtan/obsidian-drawio-blocks"
   },
   {
+    "id": "freedraw-pdf",
+    "name": "Freedraw PDF",
+    "author": "vida sana",
+    "description": "Freehand PDF annotation workspace for Obsidian with vault-backed sidecar saves. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vividasasana/freedraw-pdf"
+  },
+  {
     "id": "book-reader",
     "name": "Book Reader",
     "author": "ununnamed",
     "description": "Read books with ease: scroll-position memory, remaining reading time, and book progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ununnamed/book-reader"
+  },
+  {
+    "id": "sort-checked-tasks",
+    "name": "Sort Checked Tasks",
+    "author": "adamk",
+    "description": "Moves checked checklist items to the bottom of their task group. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akamsheh/sort-checked-tasks"
   }
 ]
