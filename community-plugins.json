@@ -6581,7 +6581,7 @@
   },
   {
     "id": "ics",
-    "name": "ICS",
+    "name": "ICS Calendar",
     "author": "open-horizon-labs",
     "description": "Add events from calendar ics on the web to daily notes on demand. Includes vdir support. Daily Planner, Templater and Dataview friendly.",
     "repo": "open-horizon-labs/obsidian-ics"
@@ -25669,6 +25669,13 @@
     "repo": "arugyani/depends"
   },
   {
+    "id": "link-forge",
+    "name": "Link Forge",
+    "author": "philpalmieri",
+    "description": "Auto-creates linked files when they don't exist, in real-time. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "philpalmieri/obsidian-link-forge"
+  },
+  {
     "id": "screvi",
     "name": "Screvi Sync",
     "author": "pedroaraujo74",
@@ -32676,6 +32683,13 @@
     "repo": "vastea/obsidian-task-manager-bases-view"
   },
   {
+    "id": "react-kanban",
+    "name": "React Kanban",
+    "author": "Marcel Reis-Soubkovsky",
+    "description": "A modern Kanban board for Obsidian that works with your existing Markdown boards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marcelrsoub/react-kanban"
+  },
+  {
     "id": "cyrillic-non-latin-tags",
     "name": "Cyrillic and Non-Latin Tags",
     "author": "Kirill Chokparov",
@@ -32828,13 +32842,6 @@
     "author": "wenjunzhu",
     "description": "Import Outlook PST email archives as Markdown files with metadata, attachments, and Obsidian wikilinks. Supports PST files of any size (including >2GB Unicode PST) via pure JavaScript. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wenciara/obsidian-pst-importer"
-  },
-  {
-    "id": "native-powerpoint-doc-editor",
-    "name": "Native PowerPoint Doc Editor",
-    "author": "Marwan Luay",
-    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marsluay/NativePowerPointDocEditor"
   },
   {
     "id": "insider",
@@ -33136,6 +33143,13 @@
     "author": "Giuseppe De Martino",
     "description": "Map and work through the contradictions in your vault: tensions, tradeoffs, and conflicting goals organized in 5 layers via frontmatter, with an AI Contradiction Hunter and PDF concept extraction. Works with cloud APIs or fully local models. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "demartinogiuseppe/antinomia"
+  },
+  {
+    "id": "mysync",
+    "name": "MySync",
+    "author": "Henrique Manduca",
+    "description": "Sync notes to your home CouchDB database with MySync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "henriquemanduca/mysync-plugin"
   },
   {
     "id": "annoteca",
@@ -35488,13 +35502,6 @@
     "author": "Bruno Ribeiro",
     "description": "Shows where a hovered link points in Live Preview and source mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "brunoribeiro2k/obsidian-link-tooltip"
-  },
-  {
-    "id": "book-progress",
-    "name": "Book Progress",
-    "author": "ununnamed",
-    "description": "Book reader with bookshelf: scroll-position memory, remaining reading time, and book progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ununnamed/book-progress"
   },
   {
     "id": "otoha-tts",
@@ -40985,6 +40992,13 @@
     "repo": "lywooye/stratify-mindmap"
   },
   {
+    "id": "autoicons",
+    "name": "AutoIcons",
+    "author": "Anuj Dhakal",
+    "description": "Automatically adds icons to files and folders based on frontmatter, custom rules, and file type. auto icon - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anuzdhk/autoicon"
+  },
+  {
     "id": "animelist",
     "name": "AnimeList",
     "author": "cwh555",
@@ -42061,5 +42075,19 @@
     "author": "Niels-Oliver Walkwoski",
     "description": "Visualize and navigate a Luhmann-style Folgezettel note sequence in a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cutuchiqueno/obsidian-folgezettel-navigator"
+  },
+  {
+    "id": "drawio-blocks",
+    "name": "draw.io Blocks",
+    "author": "dy",
+    "description": "An Obsidian plugin for editing and rendering draw.io XML inline in fenced Markdown code blocks using the online diagrams.net editor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "deyixtan/obsidian-drawio-blocks"
+  },
+  {
+    "id": "book-reader",
+    "name": "Book Reader",
+    "author": "ununnamed",
+    "description": "Read books with ease: scroll-position memory, remaining reading time, and book progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ununnamed/book-reader"
   }
 ]
